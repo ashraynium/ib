@@ -1,0 +1,19 @@
+{
+  "name": "IBRealms_Rojo_Project",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "IBRealms": {
+        "$path": "src/ReplicatedStorage/IBRealms"
+      }
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
+      }
+    }
+  }
+}
