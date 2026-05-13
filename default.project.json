@@ -1,0 +1,23 @@
+{
+  "name": "IB Realms",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "IBRealms": {
+        "$path": "src/shared/IBRealms"
+      }
+    },
+    "ServerScriptService": {
+      "IBRealms": {
+        "$path": "src/server"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "IBRealmsClient": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}
